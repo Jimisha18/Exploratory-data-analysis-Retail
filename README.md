@@ -1,5 +1,5 @@
-## Exploratory data analysis Retail(Super store) dataset
-# 1. Define problem
+# Exploratory data analysis Retail(Super store) dataset
+## 1. Define problem
 1. Load the python libraries and used the sample superstore dataset .csv file to fetch the data.
 
 **2. Perform data-preprocessing**
